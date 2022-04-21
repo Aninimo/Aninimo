@@ -1,4 +1,11 @@
-### Hi i'm Kayllane 👋
+# Hi i'm Kayllane Farias 👋
+
+### Informações adicionais:
+<ul>
+  <li>Estou sempre criando novos projetos 🚀 </li>
+  <li> Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou praticar 💻 </li>
+  <li> Estou sempre procurando aprender mais sobre ReactJS e outras linguagens 📚</li>
+</ul>
 
 
 ![Kayllane GitHub stats](https://github-readme-stats.vercel.app/api?username=Aninimo&show_icons=true&theme=tokyonight)
