@@ -5,7 +5,7 @@
 
 ### Informações adicionais:
 <ul>
-  <li>Estou sempre criando novos projetos 🚀 </li>
+  <li>Estou sempre criando novos projetos para aprimorar meus conhecimentos🚀 </li>
   <li> Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou praticar 💻 </li>
   <li> Estou sempre procurando aprender mais sobre ReactJS e outras linguagens 📚</li>
 </ul>
