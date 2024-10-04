@@ -1,8 +1,5 @@
 # Hi i'm Kayllane Farias 👋
 
-![bongo-cat-codes](https://user-images.githubusercontent.com/75839810/164514513-4d093c2d-f219-4497-8aef-75b43494ac83.gif)
-
-
 ### Informações adicionais:
 <ul>
   <li>Estou sempre criando novos projetos para aprimorar meus conhecimentos🚀 </li>
