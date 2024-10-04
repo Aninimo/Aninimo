@@ -1,12 +1,6 @@
 # Hi i'm Kayllane Farias 👋
 
-### Informações adicionais:
-<ul>
-  <li>Estou sempre criando novos projetos para aprimorar meus conhecimentos🚀 </li>
-  <li> Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou praticar 💻 </li>
-  <li> Estou sempre procurando aprender mais sobre ReactJS e outras linguagens 📚</li>
-</ul>
-
+I'm a software developer specializing in creating web applications with ReactJs. I have experience in building dynamic and responsive user interfaces, always focusing on the best user experience. Furthermore, I have knowledge in mobile development, which allows me to create solutions that work perfectly on mobile devices. I am always looking to learn new technologies and improve my skills to deliver high quality projects.
 
 ![Kayllane GitHub stats](https://github-readme-stats.vercel.app/api?username=Aninimo&show_icons=true&theme=tokyonight)
 
